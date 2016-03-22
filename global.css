@@ -1,0 +1,12 @@
+body {
+    font-family: "Trebduchett MS", sans-serif;
+}
+
+.button {
+    background: rgb(23,23,23);
+    color: #fff;
+    padding: 8px 13px;
+    display: inline-block;
+    text-decoration: none;
+    border:1px solid: #000;
+}
